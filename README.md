@@ -1,2 +1,3 @@
-# Netflix_dashboard
-Built an interactive Tableau dashboard to analyze Netflix’s global catalog. Visualized content type distribution, ratings, and country-wise availability. Key insights include a higher number of movies (70%) and dominant TV-MA ratings. Used filters to explore genre, release year, and title details.  Tools: Tableau, Mapbox, Netflix Dataset
+Netflix Dashboard Analysis Project
+Objective:
+To explore, analyze, and visualize the Netflix catalog to uncover trends in content type, distribution, rating patterns, and global availability using interactive dashboards.This interactive dashboard provides a detailed overview of Netflix's global content library. Key insights
